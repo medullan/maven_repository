@@ -3,11 +3,12 @@
   <groupId>com.engaugetx</groupId>
   <artifactId>platform</artifactId>
   <versioning>
-    <release>1.0.1</release>
+    <release>1.0.2</release>
     <versions>
       <version>0.0.1</version>
       <version>1.0.1</version>
+      <version>1.0.2</version>
     </versions>
-    <lastUpdated>20170206155955</lastUpdated>
+    <lastUpdated>20170224172953</lastUpdated>
   </versioning>
 </metadata>
